@@ -1,0 +1,7 @@
+<h1>Vüsal hadıyev</h1>
+<p>İnformation security</p>
+<p>876i</p>
+<p>
+I am a first-year student.I study İnformation security.I like programming.
+</p>
+<p>My first GitHUb project.</p>
